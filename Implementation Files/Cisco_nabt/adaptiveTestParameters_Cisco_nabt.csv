@@ -1,0 +1,2 @@
+expForRepeatKPandQ_M,x_plateauMinForPKSmetric,x_plateauMaxForPKSmetric,exponentForRampForPKSmetric,x_plateauMinForMADZmetric,x_plateauMaxForMADZmetric,exponentForRampForMADZmetric,keyPointForGroupChoiceMetric,weightForCurrentPKS_M,weightForMeanAbsDeltaZ_M,weightForGroupDist_M,weightForKPAlreadyAsked_M,weightForQAlreadyAsked_M,performanceFilterForChoosingQuestion,proportionCorrectPerformanceCutoff,proportionUncertainCutoffForLow,proportionUncertainCutoffForHigh
+0.333,0.61,0.74,1.8,0.25,1,1.8,0.3,7,2,3,8,2,0.97,0.27,0.036,0.018
